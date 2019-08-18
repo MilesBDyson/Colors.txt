@@ -12341,7 +12341,7 @@ default:sandstonebrick_letter_ql 194 190 141
 default:cobble_letter_zl 89 86 84
 default:tree_technic_cnc_twocurvededge 57 45 32
 default:junglewood 56 39 14
-default:stone_with_copper 115 113 66
+default:stone_with_copper 165 121 70
 default:wood_letter_ql 131 102 57
 default:tree_letter_gl 57 45 32
 default:cobble_letter_lu 89 86 84
@@ -20264,11 +20264,15 @@ mymeshnodes:roundedc_mulch_cyan 83 61 43
 mymeshnodes:slope_ic_mulch_black 83 61 43
 
 # moreores
-moreores:mineral_silver 97 94 93
+moreores:mineral_silver 184 199 191
+moreores:mineral_tin 193 199 198
+moreores:mineral_mithril 0 45 437
 moreores:copper_rail 152 115 79
+moreores:copper_rail_crossing 152 115 79
+moreores:copper_rail_curved 152 115 79
+moreores:copper_rail_junction 152 115 79
 moreores:mithril_block 71 90 189
 moreores:silver_block 188 206 215
-moreores:mineral_mithril 97 94 93
 
 # wool
 wool:slab_brown_three_sides_u 88 44 0
@@ -23439,13 +23443,13 @@ tnt:gunpowder 12 12 12
 tnt:tnt_burning 201 41 0
 
 # planet_mars
-planet_mars:stone_with_gold 130 79 61
-planet_mars:stone_with_coal 130 79 61
-planet_mars:stone_with_copper 130 79 61
-planet_mars:stone_with_iron 130 79 61
-planet_mars:stone_with_diamond 130 79 61
-planet_mars:stone_with_tin 130 79 61
-planet_mars:stone_with_mese 130 79 61
+planet_mars:stone_with_gold 255 204 0
+planet_mars:stone_with_coal 97 36 36
+planet_mars:stone_with_copper 165 103 70
+planet_mars:stone_with_iron 146 73 70
+planet_mars:stone_with_diamond 108 255 255
+planet_mars:stone_with_tin 202 202 202
+planet_mars:stone_with_mese 186 194 0
 
 # vessels
 vessels:steel_bottle 149 149 149
