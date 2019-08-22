@@ -23514,3 +23514,6 @@ mobs:spawner 34 78 108
 mobs:cheeseblock 216 208 110
 mobs:fence_wood 131 102 57
 
+# lavastone
+lavastone:lavastone 78 75 74
+
