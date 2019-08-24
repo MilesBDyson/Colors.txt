@@ -16909,7 +16909,7 @@ mymillwork:beam_ceiling_t_default_cobble 89 86 84
 mymillwork:base_default_desert_stone 130 79 61
 
 # planet_moon
-planet_moon:radioactive_stone 97 94 93
+planet_moon:radioactive_stone 0 0 85
 
 # biofuel
 biofuel:refinery_active 213 214 214
