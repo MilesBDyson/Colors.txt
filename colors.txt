@@ -2886,7 +2886,7 @@ scifi_nodes:micro_super_white_4 255 255 255
 scifi_nodes:slope_doomengine_inner_cut_half 87 77 53
 scifi_nodes:plant3 52 124 186
 scifi_nodes:slab_greytile 94 94 94
-scifi_nodes:grey 84 84 84
+scifi_nodes:grey 76 76 76
 scifi_nodes:stair_ultra_white_right_half 255 255 255
 scifi_nodes:slope_doomlight_half 90 46 46
 scifi_nodes:panel_octofloor2_2 64 53 31
