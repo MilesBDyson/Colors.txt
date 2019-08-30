@@ -12133,7 +12133,7 @@ default:desert_stonebrick_letter_lu 131 80 61
 default:wood 131 102 57
 default:desert_stonebrick_letter_wu 131 80 61
 default:dirt_technic_cnc_element_edge 97 67 43
-default:acacia_tree 195 119 97
+default:acacia_tree 83 76 69
 default:sandstonebrick_letter_eu 194 190 141
 default:tree_technic_cnc_slope 57 45 32
 default:sandstonebrick_letter_zl 194 190 141
@@ -12188,6 +12188,8 @@ default:mossycobble_letter_eu 88 91 73
 default:bronzeblock_technic_cnc_slope_edge_upsdown 186 111 15
 default:steelblock_letter_zu 195 195 195
 default:dirt_with_dry_grass 187 148 78
+default:dry_dirt_with_dry_grass 200 162 90
+default:dry_dirt 178 136 90
 default:cobble_letter_fu 89 86 84
 default:leaves_technic_cnc_slope_inner_edge_upsdown 36 55 29
 default:stonebrick_letter_mu 102 99 98
@@ -18899,7 +18901,8 @@ telemosaic:extender_three_green 180 180 180
 telemosaic:extender_two_brown 182 182 182
 
 # unique_ores
-unique_ores:stone_with_xoranite 97 94 93
+unique_ores:stone_with_noctinon 73 52 58
+unique_ores:stone_with_azanine 98 16 34
 unique_ores:xoraniteblock 195 195 195
 unique_ores:stone_with_xorinium 97 94 93
 unique_ores:xoriniumblock 195 195 195
@@ -23517,3 +23520,9 @@ mobs:fence_wood 131 102 57
 # lavastone
 lavastone:lavastone 78 75 74
 
+# cherrytree
+cherrytree:blossom_leaves 151 55 122
+cherrytree:trunk 132 107 87
+
+# planetoids
+planetoids:radioactive_stone 61 89 78
