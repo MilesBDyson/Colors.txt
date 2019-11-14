@@ -13234,9 +13234,9 @@ default:stonebrick_letter_yu 102 99 98
 default:stonebrick_letter_zl 102 99 98
 default:stonebrick_letter_zu 102 99 98
 default:tinblock 150 150 150
-default:torch 187 66 0
-default:torch_ceiling 187 66 0
-default:torch_wall 187 66 0
+default:torch 141 123 93
+default:torch_ceiling 141 123 93
+default:torch_wall 141 123 93
 default:tree 179 145 99
 default:tree_letter_al 57 45 32
 default:tree_letter_au 57 45 32
