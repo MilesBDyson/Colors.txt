@@ -18803,6 +18803,7 @@ technic:stair_zinc_block_inner 118 180 202
 technic:stair_zinc_block_outer 118 180 202
 technic:stair_zinc_block_right_half 118 180 202
 technic:steel_strut_with_insulator_clip 242 242 242
+technic:sulfur_block 90 80 0
 technic:supply_converter 82 80 80
 technic:switching_station 98 95 95
 technic:tool_workshop 95 98 95
