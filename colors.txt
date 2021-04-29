@@ -28531,6 +28531,13 @@ pie:scsk_1 164 14 16
 pie:scsk_2 164 14 16
 pie:scsk_3 164 14 16
 
+# redwood
+redwood:redwood_trunk 19 9 6
+redwood:redwood_wood 30 11 6
+redwood:redwood_sapling_ongen 37 47 20
+redwood:redwood_sapling 37 47 20
+redwood:redwood_leaves 15 57 29
+
 # steles
 steles:desert_stone_stele 130 79 61
 steles:granite_stele 99 79 73
