@@ -17242,9 +17242,29 @@ maptools:white 255 255 255
 maptools:wood 131 102 57
 
 # ethereal
+ethereal:bamboo_dirt 115 165 63
 ethereal:banana 175 164 43
 ethereal:bananaleaves 50 96 38
+ethereal:birch_trunk 90 72 56
+ethereal:blue_marble 96 131 182
+ethereal:bush 79 155 66
+ethereal:crystal_dirt 55 97 121
+ethereal:dry_dirt 161 127 80
+ethereal:fiery_dirt 160 29 16
+ethereal:gray_dirt 159 159 159
+ethereal:grove_dirt 118 160 60
+ethereal:mushroom 95 15 10
+ethereal:mushroom_dirt 113 72 116
 ethereal:orange 197 113 26
+ethereal:orange_leaves 52 118 45
+ethereal:palm_trunk 109 77 36
+ethereal:palmleaves 44 99 0
+ethereal:prairie_dirt 136 182 66
+ethereal:redwood_leaves 34 76 62
+ethereal:redwood_trunk 80 63 51
+ethereal:sakura_leaves 194 129 169
+ethereal:scorched_tree 28 29 37
+ethereal:willow_twig 75 174 119
 
 # mesecons_commandblock
 mesecons_commandblock:commandblock_off 196 185 113
