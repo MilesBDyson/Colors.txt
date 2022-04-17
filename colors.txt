@@ -23402,22 +23402,40 @@ factory_bridges:s01 33 25 19
 factory_bridges:s02 33 25 19
 factory_bridges:s03 33 25 19
 factory_bridges:s04 33 25 19
-factory_bridges:s05 33 25 19
+factory_bridges:s05 33 25 19i 
 
 # beacon
-beacon:blue 98 125 165
-beacon:bluebase 40 161 255
-beacon:bluebeam 41 162 255
 beacon:empty 170 170 170
-beacon:green 97 144 98
-beacon:greenbase 0 220 19
-beacon:greenbeam 0 220 19
-beacon:purple 133 98 161
-beacon:purplebase 182 31 255
-beacon:purplebeam 182 31 255
-beacon:red 164 98 98
-beacon:redbase 255 32 32
-beacon:redbeam 255 32 32
+beacon:black 0 0 0
+beacon:blackbase 0 0 0
+beacon:blackbeam 0 0 0
+beacon:blue 55 55 255
+beacon:bluebase 55 55 255
+beacon:bluebeam 55 55 255
+beacon:cyan 55 255 255
+beacon:cyanbase 55 255 255
+beacon:cyanbeam 55 255 255
+beacon:green 55 255 55
+beacon:greenbase 55 255 55
+beacon:greenbeam 55 255 55
+beacon:magenta 255 55 255
+beacon:magentabase 255 55 255
+beacon:magentabeam 255 55 255
+beacon:orange 255 155 55
+beacon:orangebase 255 155 55
+beacon:orangebeam 255 155 55
+beacon:red 255 55 55
+beacon:redbase 255 55 55
+beacon:redbeam 255 55 55
+beacon:violet 155 55 255
+beacon:violet 182 55 255
+beacon:violet 182 55 255
+beacon:white 255 255 255
+beacon:whitebase 255 255 255
+beacon:whitebeam 255 255 255
+beacon:yellow 255 255 55
+beacon:yellowbase 255 255 55
+beacon:yellowbeam 255 255 55
 
 # signs
 signs:label_medium 250 249 232
