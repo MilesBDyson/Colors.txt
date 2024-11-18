@@ -23402,7 +23402,7 @@ factory_bridges:s01 33 25 19
 factory_bridges:s02 33 25 19
 factory_bridges:s03 33 25 19
 factory_bridges:s04 33 25 19
-factory_bridges:s05 33 25 19i 
+factory_bridges:s05 33 25 19 
 
 # beacon
 beacon:empty 170 170 170
