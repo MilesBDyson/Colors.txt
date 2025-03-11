@@ -1,0 +1,75 @@
+# doors
+doors:door_glass_a 245 245 245 64 16
+doors:door_glass_b 245 245 245 64 16
+doors:door_glass_c 245 245 245 64 16
+doors:door_glass_d 245 245 245 64 16
+doors:door_obsidian_glass_a 48 49 50 64 16
+doors:door_obsidian_glass_b 48 49 50 64 16
+doors:door_obsidian_glass_c 48 49 50 64 16
+doors:door_obsidian_glass_d 48 49 50 64 16
+doors:door_steel_a 203 203 203
+doors:door_steel_b 203 203 203
+doors:door_steel_c 203 203 203
+doors:door_steel_d 203 203 203
+doors:door_wood_a 89 68 37
+doors:door_wood_b 89 68 37
+doors:door_wood_c 89 68 37
+doors:door_wood_d 89 68 37
+doors:gate_acacia_wood_closed 150 61 39
+doors:gate_acacia_wood_open 150 61 39
+doors:gate_aspen_wood_closed 210 199 170
+doors:gate_aspen_wood_open 210 199 170
+doors:gate_junglewood_closed 56 39 14
+doors:gate_junglewood_open 56 39 14
+doors:gate_pine_wood_closed 221 185 130
+doors:gate_pine_wood_open 221 185 130
+doors:gate_wood_closed 131 102 57
+doors:gate_wood_open 131 102 57
+doors:homedecor_basic_panel_a 233 233 232
+doors:homedecor_basic_panel_b 233 233 232
+doors:homedecor_basic_panel_c 233 233 232
+doors:homedecor_basic_panel_d 233 233 232
+doors:homedecor_carolina_a 188 141 79
+doors:homedecor_carolina_b 188 141 79
+doors:homedecor_carolina_c 188 141 79
+doors:homedecor_carolina_d 188 141 79
+doors:homedecor_closet_mahogany_a 133 75 45
+doors:homedecor_closet_mahogany_b 133 75 45
+doors:homedecor_closet_mahogany_c 133 75 45
+doors:homedecor_closet_mahogany_d 133 75 45
+doors:homedecor_closet_oak_a 166 133 83
+doors:homedecor_closet_oak_b 166 133 83
+doors:homedecor_closet_oak_c 166 133 83
+doors:homedecor_closet_oak_d 166 133 83
+doors:homedecor_exterior_fancy_a 150 128 124
+doors:homedecor_exterior_fancy_b 150 128 124
+doors:homedecor_exterior_fancy_c 150 128 124
+doors:homedecor_exterior_fancy_d 150 128 124
+doors:homedecor_french_mahogany_a 142 99 77
+doors:homedecor_french_mahogany_b 142 99 77
+doors:homedecor_french_mahogany_c 142 99 77
+doors:homedecor_french_mahogany_d 142 99 77
+doors:homedecor_french_oak_a 179 144 86
+doors:homedecor_french_oak_b 179 144 86
+doors:homedecor_french_oak_c 179 144 86
+doors:homedecor_french_oak_d 179 144 86
+doors:homedecor_french_white_a 236 236 236
+doors:homedecor_french_white_b 236 236 236
+doors:homedecor_french_white_c 236 236 236
+doors:homedecor_french_white_d 236 236 236
+doors:homedecor_wood_plain_a 144 106 71
+doors:homedecor_wood_plain_b 144 106 71
+doors:homedecor_wood_plain_c 144 106 71
+doors:homedecor_wood_plain_d 144 106 71
+doors:homedecor_woodglass_a 102 71 49 64 16
+doors:homedecor_woodglass_b 102 71 49 64 16
+doors:homedecor_woodglass_c 102 71 49 64 16
+doors:homedecor_woodglass_d 102 71 49 64 16
+doors:homedecor_wrought_iron_a 50 42 37
+doors:homedecor_wrought_iron_b 50 42 37
+doors:homedecor_wrought_iron_c 50 42 37
+doors:homedecor_wrought_iron_d 50 42 37
+doors:trapdoor 130 100 51
+doors:trapdoor_open 130 100 51
+doors:trapdoor_steel 200 200 200
+doors:trapdoor_steel_open 200 200 200

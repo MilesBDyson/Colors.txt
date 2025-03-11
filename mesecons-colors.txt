@@ -1,0 +1,532 @@
+# mesecons
+mesecons:wire_00000000_off 145 146 23
+mesecons:wire_00000000_on 233 233 46
+mesecons:wire_00010000_off 145 146 23
+mesecons:wire_00010000_on 233 233 46
+mesecons:wire_00010001_off 145 146 23
+mesecons:wire_00010001_on 233 233 46
+mesecons:wire_00100000_off 145 146 23
+mesecons:wire_00100000_on 233 233 46
+mesecons:wire_00100010_off 145 146 23
+mesecons:wire_00100010_on 233 233 46
+mesecons:wire_00110000_off 145 146 23
+mesecons:wire_00110000_on 233 233 46
+mesecons:wire_00110001_off 145 146 23
+mesecons:wire_00110001_on 233 233 46
+mesecons:wire_00110010_off 145 146 23
+mesecons:wire_00110010_on 233 233 46
+mesecons:wire_00110011_off 145 146 23
+mesecons:wire_00110011_on 233 233 46
+mesecons:wire_01000000_off 145 146 23
+mesecons:wire_01000000_on 233 233 46
+mesecons:wire_01000100_off 145 146 23
+mesecons:wire_01000100_on 233 233 46
+mesecons:wire_01010000_off 145 146 23
+mesecons:wire_01010000_on 233 233 46
+mesecons:wire_01010001_off 145 146 23
+mesecons:wire_01010001_on 233 233 46
+mesecons:wire_01010100_off 145 146 23
+mesecons:wire_01010100_on 233 233 46
+mesecons:wire_01010101_off 145 146 23
+mesecons:wire_01010101_on 233 233 46
+mesecons:wire_01100000_off 145 146 23
+mesecons:wire_01100000_on 233 233 46
+mesecons:wire_01100010_off 145 146 23
+mesecons:wire_01100010_on 233 233 46
+mesecons:wire_01100100_off 145 146 23
+mesecons:wire_01100100_on 233 233 46
+mesecons:wire_01100110_off 145 146 23
+mesecons:wire_01100110_on 233 233 46
+mesecons:wire_01110000_off 145 146 23
+mesecons:wire_01110000_on 233 233 46
+mesecons:wire_01110001_off 145 146 23
+mesecons:wire_01110001_on 233 233 46
+mesecons:wire_01110010_off 145 146 23
+mesecons:wire_01110010_on 233 233 46
+mesecons:wire_01110011_off 145 146 23
+mesecons:wire_01110011_on 233 233 46
+mesecons:wire_01110100_off 145 146 23
+mesecons:wire_01110100_on 233 233 46
+mesecons:wire_01110101_off 145 146 23
+mesecons:wire_01110101_on 233 233 46
+mesecons:wire_01110110_off 145 146 23
+mesecons:wire_01110110_on 233 233 46
+mesecons:wire_01110111_off 145 146 23
+mesecons:wire_01110111_on 233 233 46
+mesecons:wire_10000000_off 145 146 23
+mesecons:wire_10000000_on 233 233 46
+mesecons:wire_10001000_off 145 146 23
+mesecons:wire_10001000_on 233 233 46
+mesecons:wire_10010000_off 145 146 23
+mesecons:wire_10010000_on 233 233 46
+mesecons:wire_10010001_off 145 146 23
+mesecons:wire_10010001_on 233 233 46
+mesecons:wire_10011000_off 145 146 23
+mesecons:wire_10011000_on 233 233 46
+mesecons:wire_10011001_off 145 146 23
+mesecons:wire_10011001_on 233 233 46
+mesecons:wire_10100000_off 145 146 23
+mesecons:wire_10100000_on 233 233 46
+mesecons:wire_10100010_off 145 146 23
+mesecons:wire_10100010_on 233 233 46
+mesecons:wire_10101000_off 145 146 23
+mesecons:wire_10101000_on 233 233 46
+mesecons:wire_10101010_off 145 146 23
+mesecons:wire_10101010_on 233 233 46
+mesecons:wire_10110000_off 145 146 23
+mesecons:wire_10110000_on 233 233 46
+mesecons:wire_10110001_off 145 146 23
+mesecons:wire_10110001_on 233 233 46
+mesecons:wire_10110010_off 145 146 23
+mesecons:wire_10110010_on 233 233 46
+mesecons:wire_10110011_off 145 146 23
+mesecons:wire_10110011_on 233 233 46
+mesecons:wire_10111000_off 145 146 23
+mesecons:wire_10111000_on 233 233 46
+mesecons:wire_10111001_off 145 146 23
+mesecons:wire_10111001_on 233 233 46
+mesecons:wire_10111010_off 145 146 23
+mesecons:wire_10111010_on 233 233 46
+mesecons:wire_10111011_off 145 146 23
+mesecons:wire_10111011_on 233 233 46
+mesecons:wire_11000000_off 145 146 23
+mesecons:wire_11000000_on 233 233 46
+mesecons:wire_11000100_off 145 146 23
+mesecons:wire_11000100_on 233 233 46
+mesecons:wire_11001000_off 145 146 23
+mesecons:wire_11001000_on 233 233 46
+mesecons:wire_11001100_off 145 146 23
+mesecons:wire_11001100_on 233 233 46
+mesecons:wire_11010000_off 145 146 23
+mesecons:wire_11010000_on 233 233 46
+mesecons:wire_11010001_off 145 146 23
+mesecons:wire_11010001_on 233 233 46
+mesecons:wire_11010100_off 145 146 23
+mesecons:wire_11010100_on 233 233 46
+mesecons:wire_11010101_off 145 146 23
+mesecons:wire_11010101_on 233 233 46
+mesecons:wire_11011000_off 145 146 23
+mesecons:wire_11011000_on 233 233 46
+mesecons:wire_11011001_off 145 146 23
+mesecons:wire_11011001_on 233 233 46
+mesecons:wire_11011100_off 145 146 23
+mesecons:wire_11011100_on 233 233 46
+mesecons:wire_11011101_off 145 146 23
+mesecons:wire_11011101_on 233 233 46
+mesecons:wire_11100000_off 145 146 23
+mesecons:wire_11100000_on 233 233 46
+mesecons:wire_11100010_off 145 146 23
+mesecons:wire_11100010_on 233 233 46
+mesecons:wire_11100100_off 145 146 23
+mesecons:wire_11100100_on 233 233 46
+mesecons:wire_11100110_off 145 146 23
+mesecons:wire_11100110_on 233 233 46
+mesecons:wire_11101000_off 145 146 23
+mesecons:wire_11101000_on 233 233 46
+mesecons:wire_11101010_off 145 146 23
+mesecons:wire_11101010_on 233 233 46
+mesecons:wire_11101100_off 145 146 23
+mesecons:wire_11101100_on 233 233 46
+mesecons:wire_11101110_off 145 146 23
+mesecons:wire_11101110_on 233 233 46
+mesecons:wire_11110000_off 145 146 23
+mesecons:wire_11110000_on 233 233 46
+mesecons:wire_11110001_off 145 146 23
+mesecons:wire_11110001_on 233 233 46
+mesecons:wire_11110010_off 145 146 23
+mesecons:wire_11110010_on 233 233 46
+mesecons:wire_11110011_off 145 146 23
+mesecons:wire_11110011_on 233 233 46
+mesecons:wire_11110100_off 145 146 23
+mesecons:wire_11110100_on 233 233 46
+mesecons:wire_11110101_off 145 146 23
+mesecons:wire_11110101_on 233 233 46
+mesecons:wire_11110110_off 145 146 23
+mesecons:wire_11110110_on 233 233 46
+mesecons:wire_11110111_off 145 146 23
+mesecons:wire_11110111_on 233 233 46
+mesecons:wire_11111000_off 145 146 23
+mesecons:wire_11111000_on 233 233 46
+mesecons:wire_11111001_off 145 146 23
+mesecons:wire_11111001_on 233 233 46
+mesecons:wire_11111010_off 145 146 23
+mesecons:wire_11111010_on 233 233 46
+mesecons:wire_11111011_off 145 146 23
+mesecons:wire_11111011_on 233 233 46
+mesecons:wire_11111100_off 145 146 23
+mesecons:wire_11111100_on 233 233 46
+mesecons:wire_11111101_off 145 146 23
+mesecons:wire_11111101_on 233 233 46
+mesecons:wire_11111110_off 145 146 23
+mesecons:wire_11111110_on 233 233 46
+mesecons:wire_11111111_off 145 146 23
+mesecons:wire_11111111_on 233 233 46
+
+# mesecons_blinkyplant
+mesecons_blinkyplant:blinky_plant_off 100 101 54
+mesecons_blinkyplant:blinky_plant_on 144 120 83
+
+# mesecons_button
+mesecons_button:button_off 123 123 123
+mesecons_button:button_on 123 123 123
+
+# mesecons_commandblock
+mesecons_commandblock:commandblock_off 196 185 113
+mesecons_commandblock:commandblock_on 218 207 129
+
+# mesecons_debug
+mesecons_debug:mesecons_lagger 222 222 0
+mesecons_debug:penalty_controller 156 159 155
+
+# mesecons_delayer
+mesecons_delayer:delayer_off_1 191 191 191
+mesecons_delayer:delayer_off_2 191 191 191
+mesecons_delayer:delayer_off_3 191 191 191
+mesecons_delayer:delayer_off_4 191 191 191
+mesecons_delayer:delayer_on_1 191 191 191
+mesecons_delayer:delayer_on_2 191 191 191
+mesecons_delayer:delayer_on_3 191 191 191
+mesecons_delayer:delayer_on_4 191 191 191
+
+# mesecons_detector
+mesecons_detector:node_detector_off 195 195 195
+mesecons_detector:node_detector_on 195 195 195
+mesecons_detector:object_detector_off 195 195 195
+mesecons_detector:object_detector_on 195 195 195
+
+# mesecons_extrawires
+mesecons_extrawires:corner_off 27 43 78
+mesecons_extrawires:corner_on 45 70 170
+mesecons_extrawires:crossover_01 49 73 170
+mesecons_extrawires:crossover_10 30 44 78
+mesecons_extrawires:crossover_off 30 44 78
+mesecons_extrawires:crossover_on 49 73 170
+mesecons_extrawires:doublecorner_00 27 43 78
+mesecons_extrawires:doublecorner_01 27 43 78
+mesecons_extrawires:doublecorner_10 45 70 170
+mesecons_extrawires:doublecorner_11 45 70 170
+mesecons_extrawires:mese_powered 222 222 0
+mesecons_extrawires:tjunction_off 15 25 46
+mesecons_extrawires:tjunction_on 26 41 100
+mesecons_extrawires:vertical_bottom_off 145 146 23
+mesecons_extrawires:vertical_bottom_on 233 233 46
+mesecons_extrawires:vertical_off 145 146 23
+mesecons_extrawires:vertical_on 233 233 46
+mesecons_extrawires:vertical_top_off 145 146 23
+mesecons_extrawires:vertical_top_on 233 233 46
+
+# mesecons_fpga
+mesecons_fpga:fpga0000 160 163 150
+mesecons_fpga:fpga0001 160 163 150
+mesecons_fpga:fpga0010 160 163 150
+mesecons_fpga:fpga0011 160 163 150
+mesecons_fpga:fpga0100 160 163 150
+mesecons_fpga:fpga0101 160 163 150
+mesecons_fpga:fpga0110 160 163 150
+mesecons_fpga:fpga0111 160 163 150
+mesecons_fpga:fpga1000 160 163 150
+mesecons_fpga:fpga1001 160 163 150
+mesecons_fpga:fpga1010 160 163 150
+mesecons_fpga:fpga1011 160 163 150
+mesecons_fpga:fpga1100 160 163 150
+mesecons_fpga:fpga1101 160 163 150
+mesecons_fpga:fpga1110 160 163 150
+mesecons_fpga:fpga1111 160 163 150
+
+# mesecons_gates
+mesecons_gates:and_off 191 191 191
+mesecons_gates:and_on 191 191 191
+mesecons_gates:diode_off 191 191 191
+mesecons_gates:diode_on 191 191 191
+mesecons_gates:nand_off 191 191 191
+mesecons_gates:nand_on 191 191 191
+mesecons_gates:nor_off 191 191 191
+mesecons_gates:nor_on 191 191 191
+mesecons_gates:not_off 191 191 191
+mesecons_gates:not_on 191 191 191
+mesecons_gates:or_off 191 191 191
+mesecons_gates:or_on 191 191 191
+mesecons_gates:xor_off 191 191 191
+mesecons_gates:xor_on 191 191 191
+
+# mesecons_hydroturbine
+mesecons_hydroturbine:hydro_turbine_off 167 160 160
+mesecons_hydroturbine:hydro_turbine_on 164 182 164
+
+# mesecons_insulated
+mesecons_insulated:insulated_off 27 43 78
+mesecons_insulated:insulated_on 45 70 170
+
+# mesecons_lamp
+mesecons_lamp:lamp_off 199 199 199
+mesecons_lamp:lamp_on 245 239 201
+
+# mesecons_lightstone
+mesecons_lightstone:lightstone_blue_off 36 36 189
+mesecons_lightstone:lightstone_blue_on 151 151 254
+mesecons_lightstone:lightstone_cyan_off 5 139 137
+mesecons_lightstone:lightstone_cyan_on 139 254 253
+mesecons_lightstone:lightstone_darkgray_off 53 53 53
+mesecons_lightstone:lightstone_darkgray_on 126 126 126
+mesecons_lightstone:lightstone_gray_off 114 114 114
+mesecons_lightstone:lightstone_gray_on 197 197 197
+mesecons_lightstone:lightstone_green_off 5 139 5
+mesecons_lightstone:lightstone_green_on 138 255 138
+mesecons_lightstone:lightstone_magenta_off 135 0 66
+mesecons_lightstone:lightstone_magenta_on 254 84 164
+mesecons_lightstone:lightstone_orange_off 196 106 1
+mesecons_lightstone:lightstone_orange_on 255 180 100
+mesecons_lightstone:lightstone_pink_off 246 65 65
+mesecons_lightstone:lightstone_pink_on 255 163 163
+mesecons_lightstone:lightstone_red_off 134 0 0
+mesecons_lightstone:lightstone_red_on 255 83 83
+mesecons_lightstone:lightstone_violet_off 69 0 135
+mesecons_lightstone:lightstone_violet_on 168 84 254
+mesecons_lightstone:lightstone_white_off 212 211 212
+mesecons_lightstone:lightstone_white_on 252 252 252
+mesecons_lightstone:lightstone_yellow_off 189 187 36
+mesecons_lightstone:lightstone_yellow_on 254 252 152
+
+# mesecons_luacontroller
+mesecons_luacontroller:luacontroller0000 148 151 138
+mesecons_luacontroller:luacontroller0001 148 151 138
+mesecons_luacontroller:luacontroller0010 148 151 138
+mesecons_luacontroller:luacontroller0011 148 151 138
+mesecons_luacontroller:luacontroller0100 148 151 138
+mesecons_luacontroller:luacontroller0101 148 151 138
+mesecons_luacontroller:luacontroller0110 148 151 138
+mesecons_luacontroller:luacontroller0111 148 151 138
+mesecons_luacontroller:luacontroller1000 148 151 138
+mesecons_luacontroller:luacontroller1001 148 151 138
+mesecons_luacontroller:luacontroller1010 148 151 138
+mesecons_luacontroller:luacontroller1011 148 151 138
+mesecons_luacontroller:luacontroller1100 148 151 138
+mesecons_luacontroller:luacontroller1101 148 151 138
+mesecons_luacontroller:luacontroller1110 148 151 138
+mesecons_luacontroller:luacontroller1111 148 151 138
+mesecons_luacontroller:luacontroller_burnt 179 154 139
+
+# mesecons_microcontroller
+mesecons_microcontroller:microcontroller0000 148 151 138
+mesecons_microcontroller:microcontroller0001 148 151 138
+mesecons_microcontroller:microcontroller0010 148 151 138
+mesecons_microcontroller:microcontroller0011 148 151 138
+mesecons_microcontroller:microcontroller0100 148 151 138
+mesecons_microcontroller:microcontroller0101 148 151 138
+mesecons_microcontroller:microcontroller0110 148 151 138
+mesecons_microcontroller:microcontroller0111 148 151 138
+mesecons_microcontroller:microcontroller1000 148 151 138
+mesecons_microcontroller:microcontroller1001 148 151 138
+mesecons_microcontroller:microcontroller1010 148 151 138
+mesecons_microcontroller:microcontroller1011 148 151 138
+mesecons_microcontroller:microcontroller1100 148 151 138
+mesecons_microcontroller:microcontroller1101 148 151 138
+mesecons_microcontroller:microcontroller1110 148 151 138
+mesecons_microcontroller:microcontroller1111 148 151 138
+
+# mesecons_movestones
+mesecons_movestones:movestone 127 127 127
+mesecons_movestones:movestone_vertical 127 127 127
+mesecons_movestones:sticky_movestone 127 127 127
+mesecons_movestones:sticky_movestone_vertical 127 127 127
+
+# mesecons_noteblock
+mesecons_noteblock:noteblock 109 103 101
+
+# mesecons_pistons
+mesecons_pistons:piston_normal_off 101 98 94
+mesecons_pistons:piston_normal_on 101 98 94
+mesecons_pistons:piston_pusher_normal 137 122 106
+mesecons_pistons:piston_pusher_sticky 137 122 106
+mesecons_pistons:piston_sticky_off 101 98 94
+mesecons_pistons:piston_sticky_on 101 98 94
+
+# mesecons_powerplant
+mesecons_powerplant:power_plant 148 160 112
+
+# mesecons_pressureplates
+mesecons_pressureplates:pressure_plate_stone_off 100 100 90
+mesecons_pressureplates:pressure_plate_stone_on 129 129 92
+mesecons_pressureplates:pressure_plate_wood_off 103 82 37
+mesecons_pressureplates:pressure_plate_wood_on 131 115 41
+
+# mesecons_protected_button
+mesecons_protected_button:button_off 123 123 123
+mesecons_protected_button:button_on 123 123 123
+
+# mesecons_protected_switch
+mesecons_protected_switch:mesecon_switch_off 129 129 129
+mesecons_protected_switch:mesecon_switch_on 129 129 129
+
+# mesecons_random
+mesecons_random:ghoststone 53 51 48
+mesecons_random:removestone 53 51 48
+
+# mesecons_receiver
+mesecons_receiver:receiver_down_off 145 146 23
+mesecons_receiver:receiver_down_on 233 233 46
+mesecons_receiver:receiver_off 145 147 23
+mesecons_receiver:receiver_on 236 236 46
+mesecons_receiver:receiver_up_off 145 146 23
+mesecons_receiver:receiver_up_on 233 233 46
+
+# mesecons_solarpanel
+mesecons_solarpanel:solar_panel_off 36 51 84
+mesecons_solarpanel:solar_panel_on 36 51 84
+
+# mesecons_stealthnode
+mesecons_stealthnode:default_acacia_tree 195 119 97
+mesecons_stealthnode:default_acacia_tree_conducting 195 119 97
+mesecons_stealthnode:default_acacia_tree_conducting_on 195 119 97
+mesecons_stealthnode:default_acacia_wood 150 61 39
+mesecons_stealthnode:default_acacia_wood_conducting 150 61 39
+mesecons_stealthnode:default_acacia_wood_conducting_on 150 61 39
+mesecons_stealthnode:default_aspen_tree 218 198 168
+mesecons_stealthnode:default_aspen_tree_conducting 218 198 168
+mesecons_stealthnode:default_aspen_tree_conducting_on 218 198 168
+mesecons_stealthnode:default_aspen_wood 210 199 170
+mesecons_stealthnode:default_aspen_wood_conducting 210 199 170
+mesecons_stealthnode:default_aspen_wood_conducting_on 210 199 170
+mesecons_stealthnode:default_clay 183 183 183
+mesecons_stealthnode:default_clay_conducting 183 183 183
+mesecons_stealthnode:default_clay_conducting_on 183 183 183
+mesecons_stealthnode:default_cobble 89 86 84
+mesecons_stealthnode:default_cobble_conducting 89 86 84
+mesecons_stealthnode:default_cobble_conducting_on 89 86 84
+mesecons_stealthnode:default_coral_skeleton 235 230 215
+mesecons_stealthnode:default_coral_skeleton_conducting 235 230 215
+mesecons_stealthnode:default_coral_skeleton_conducting_on 235 230 215
+mesecons_stealthnode:default_desert_cobble 110 67 50
+mesecons_stealthnode:default_desert_cobble_conducting 110 67 50
+mesecons_stealthnode:default_desert_cobble_conducting_on 110 67 50
+mesecons_stealthnode:default_desert_sand 206 165 98
+mesecons_stealthnode:default_desert_sand_conducting 206 165 98
+mesecons_stealthnode:default_desert_sand_conducting_on 206 165 98
+mesecons_stealthnode:default_desert_sandstone 195 152 92
+mesecons_stealthnode:default_desert_sandstone_block 193 152 94
+mesecons_stealthnode:default_desert_sandstone_block_conducting 193 152 94
+mesecons_stealthnode:default_desert_sandstone_block_conducting_on 193 152 94
+mesecons_stealthnode:default_desert_sandstone_brick 191 151 95
+mesecons_stealthnode:default_desert_sandstone_brick_conducting 191 151 95
+mesecons_stealthnode:default_desert_sandstone_brick_conducting_on 191 151 95
+mesecons_stealthnode:default_desert_sandstone_conducting 195 152 92
+mesecons_stealthnode:default_desert_sandstone_conducting_on 195 152 92
+mesecons_stealthnode:default_desert_stone 130 79 61
+mesecons_stealthnode:default_desert_stone_block 131 80 61
+mesecons_stealthnode:default_desert_stone_block_conducting 131 80 61
+mesecons_stealthnode:default_desert_stone_block_conducting_on 131 80 61
+mesecons_stealthnode:default_desert_stone_conducting 130 79 61
+mesecons_stealthnode:default_desert_stone_conducting_on 130 79 61
+mesecons_stealthnode:default_desert_stonebrick 131 80 61
+mesecons_stealthnode:default_desert_stonebrick_conducting 131 80 61
+mesecons_stealthnode:default_desert_stonebrick_conducting_on 131 80 61
+mesecons_stealthnode:default_dirt 97 67 43
+mesecons_stealthnode:default_dirt_conducting 97 67 43
+mesecons_stealthnode:default_dirt_conducting_on 97 67 43
+mesecons_stealthnode:default_dry_dirt 178 136 90
+mesecons_stealthnode:default_dry_dirt_conducting 178 136 90
+mesecons_stealthnode:default_dry_dirt_conducting_on 178 136 90
+mesecons_stealthnode:default_glass 247 247 247
+mesecons_stealthnode:default_glass_conducting 247 247 247
+mesecons_stealthnode:default_glass_conducting_on 247 247 247
+mesecons_stealthnode:default_gravel 132 132 132
+mesecons_stealthnode:default_gravel_conducting 132 132 132
+mesecons_stealthnode:default_gravel_conducting_on 132 132 132
+mesecons_stealthnode:default_ice 168 206 247
+mesecons_stealthnode:default_ice_conducting 168 206 247
+mesecons_stealthnode:default_ice_conducting_on 168 206 247
+mesecons_stealthnode:default_jungletree 121 97 62
+mesecons_stealthnode:default_jungletree_conducting 121 97 62
+mesecons_stealthnode:default_jungletree_conducting_on 121 97 62
+mesecons_stealthnode:default_junglewood 56 39 14
+mesecons_stealthnode:default_junglewood_conducting 56 39 14
+mesecons_stealthnode:default_junglewood_conducting_on 56 39 14
+mesecons_stealthnode:default_mossycobble 88 91 73
+mesecons_stealthnode:default_mossycobble_conducting 88 91 73
+mesecons_stealthnode:default_mossycobble_conducting_on 88 91 73
+mesecons_stealthnode:default_obsidian 21 24 29
+mesecons_stealthnode:default_obsidian_block 23 25 30
+mesecons_stealthnode:default_obsidian_block_conducting 23 25 30
+mesecons_stealthnode:default_obsidian_block_conducting_on 23 25 30
+mesecons_stealthnode:default_obsidian_conducting 21 24 29
+mesecons_stealthnode:default_obsidian_conducting_on 21 24 29
+mesecons_stealthnode:default_obsidian_glass 20 23 27
+mesecons_stealthnode:default_obsidian_glass_conducting 20 23 27
+mesecons_stealthnode:default_obsidian_glass_conducting_on 20 23 27
+mesecons_stealthnode:default_obsidianbrick 23 25 29
+mesecons_stealthnode:default_obsidianbrick_conducting 23 25 29
+mesecons_stealthnode:default_obsidianbrick_conducting_on 23 25 29
+mesecons_stealthnode:default_permafrost 71 66 61
+mesecons_stealthnode:default_permafrost_conducting 71 66 61
+mesecons_stealthnode:default_permafrost_conducting_on 71 66 61
+mesecons_stealthnode:default_pine_tree 191 165 132
+mesecons_stealthnode:default_pine_tree_conducting 191 165 132
+mesecons_stealthnode:default_pine_tree_conducting_on 191 165 132
+mesecons_stealthnode:default_pine_wood 221 185 130
+mesecons_stealthnode:default_pine_wood_conducting 221 185 130
+mesecons_stealthnode:default_pine_wood_conducting_on 221 185 130
+mesecons_stealthnode:default_sand 214 207 158
+mesecons_stealthnode:default_sand_conducting 214 207 158
+mesecons_stealthnode:default_sand_conducting_on 214 207 158
+mesecons_stealthnode:default_sandstone 198 193 143
+mesecons_stealthnode:default_sandstone_block 195 191 142
+mesecons_stealthnode:default_sandstone_block_conducting 195 191 142
+mesecons_stealthnode:default_sandstone_block_conducting_on 195 191 142
+mesecons_stealthnode:default_sandstone_conducting 198 193 143
+mesecons_stealthnode:default_sandstone_conducting_on 198 193 143
+mesecons_stealthnode:default_sandstonebrick 194 190 141
+mesecons_stealthnode:default_sandstonebrick_conducting 194 190 141
+mesecons_stealthnode:default_sandstonebrick_conducting_on 194 190 141
+mesecons_stealthnode:default_silver_sand 193 191 179
+mesecons_stealthnode:default_silver_sand_conducting 193 191 179
+mesecons_stealthnode:default_silver_sand_conducting_on 193 191 179
+mesecons_stealthnode:default_silver_sandstone 195 192 181
+mesecons_stealthnode:default_silver_sandstone_block 192 190 180
+mesecons_stealthnode:default_silver_sandstone_block_conducting 192 190 180
+mesecons_stealthnode:default_silver_sandstone_block_conducting_on 192 190 180
+mesecons_stealthnode:default_silver_sandstone_brick 191 189 179
+mesecons_stealthnode:default_silver_sandstone_brick_conducting 191 189 179
+mesecons_stealthnode:default_silver_sandstone_brick_conducting_on 191 189 179
+mesecons_stealthnode:default_silver_sandstone_conducting 195 192 181
+mesecons_stealthnode:default_silver_sandstone_conducting_on 195 192 181
+mesecons_stealthnode:default_snowblock 225 225 238
+mesecons_stealthnode:default_snowblock_conducting 225 225 238
+mesecons_stealthnode:default_snowblock_conducting_on 225 225 238
+mesecons_stealthnode:default_stone 97 94 93
+mesecons_stealthnode:default_stone_block 100 97 96
+mesecons_stealthnode:default_stone_block_conducting 100 97 96
+mesecons_stealthnode:default_stone_block_conducting_on 100 97 96
+mesecons_stealthnode:default_stone_conducting 97 94 93
+mesecons_stealthnode:default_stone_conducting_on 97 94 93
+mesecons_stealthnode:default_stonebrick 102 99 98
+mesecons_stealthnode:default_stonebrick_conducting 102 99 98
+mesecons_stealthnode:default_stonebrick_conducting_on 102 99 98
+mesecons_stealthnode:default_tree 179 145 99
+mesecons_stealthnode:default_tree_conducting 179 145 99
+mesecons_stealthnode:default_tree_conducting_on 179 145 99
+mesecons_stealthnode:default_wood 131 102 57
+mesecons_stealthnode:default_wood_conducting 131 102 57
+mesecons_stealthnode:default_wood_conducting_on 131 102 57
+mesecons_stealthnode:moreores_mithril_block 71 90 189
+mesecons_stealthnode:moreores_mithril_block_conducting 71 90 189
+mesecons_stealthnode:moreores_mithril_block_conducting_on 71 90 189
+mesecons_stealthnode:moreores_silver_block 188 206 215
+mesecons_stealthnode:moreores_silver_block_conducting 188 206 215
+mesecons_stealthnode:moreores_silver_block_conducting_on 188 206 215
+mesecons_stealthnode:scifi_nodes_forcefield 0 128 251
+mesecons_stealthnode:scifi_nodes_wall 64 64 64
+
+# mesecons_stickyblocks
+mesecons_stickyblocks:sticky_block_all 135 126 25
+
+# mesecons_switch
+mesecons_switch:mesecon_switch_off 129 129 129
+mesecons_switch:mesecon_switch_on 129 129 129
+
+# mesecons_torch
+mesecons_torch:mesecon_torch_off 122 121 120
+mesecons_torch:mesecon_torch_on 208 205 201
+
+# mesecons_walllever
+mesecons_walllever:wall_lever_off 104 80 34
+mesecons_walllever:wall_lever_on 145 122 35

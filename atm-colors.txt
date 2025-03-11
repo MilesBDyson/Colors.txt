@@ -1,0 +1,5 @@
+# atm
+atm:atm 133 171 166
+atm:atm2 134 120 125
+atm:atm3 226 132 74
+atm:wtt 133 171 166

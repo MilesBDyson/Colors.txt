@@ -1,0 +1,48 @@
+# morelights
+morelights:chain_ceiling_d 45 41 37
+morelights:chain_ceiling_l 186 189 191
+morelights:chain_d 45 41 37
+morelights:chain_l 186 189 191
+morelights:pole_ceiling_d 45 41 37
+morelights:pole_ceiling_l 186 189 191
+morelights:pole_d 45 41 37
+morelights:pole_l 186 189 191
+
+# morelights_extras
+morelights_extras:dirt_with_grass 64 111 26
+morelights_extras:f_block 227 221 217
+morelights_extras:sandstone_block 195 191 142
+morelights_extras:stairlight 44 39 36
+morelights_extras:stone_block 100 97 96
+
+
+
+# morelights_vintage
+morelights_vintage:block 246 235 189
+morelights_vintage:chain_b 250 210 111
+morelights_vintage:chain_ceiling_b 250 210 111
+morelights_vintage:chandelier 154 135 97
+morelights_vintage:hangingbulb 248 240 186
+morelights_vintage:lantern_c 90 69 39
+morelights_vintage:lantern_f 90 69 39
+morelights_vintage:lantern_w 90 69 39
+morelights_vintage:oillamp 224 192 134
+morelights_vintage:smallblock 246 235 189
+
+# morelights_modern
+morelights_modern:barlight_c 44 39 36
+morelights_modern:barlight_s 44 39 36
+morelights_modern:block 44 39 36
+morelights_modern:canlight_d 44 39 36
+morelights_modern:canlight_l 191 191 193
+morelights_modern:ceilinglight 44 39 36
+morelights_modern:pathlight_d 45 41 37
+morelights_modern:pathlight_l 186 189 191
+morelights_modern:post_d 44 39 36
+morelights_modern:post_l 191 191 193
+morelights_modern:smallblock 44 39 36
+morelights_modern:streetpost_d 44 39 36
+morelights_modern:streetpost_l 191 191 193
+morelights_modern:tablelamp_d 186 189 191
+morelights_modern:tablelamp_l 45 41 37
+morelights_modern:walllamp 45 41 37

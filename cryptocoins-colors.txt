@@ -1,0 +1,15 @@
+# cryptocoins
+cryptocoins:alien_computer 90 90 193
+cryptocoins:alien_computer_active 90 90 193
+cryptocoins:alien_computer_motherboard 119 97 78
+cryptocoins:game_computer 194 88 88
+cryptocoins:game_computer_active 194 88 88
+cryptocoins:game_computer_motherboard 116 146 53
+cryptocoins:home_computer 201 178 145
+cryptocoins:home_computer_active 201 178 145
+cryptocoins:home_computer_motherboard 105 143 42
+cryptocoins:isp 187 187 187
+cryptocoins:isp_on 187 187 187
+cryptocoins:router 41 41 75
+cryptocoins:router_error 41 41 75
+cryptocoins:router_on 41 41 75

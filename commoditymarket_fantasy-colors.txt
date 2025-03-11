@@ -1,0 +1,12 @@
+# commoditymarket_fantasy
+commoditymarket_fantasy:caravan_market_1 87 67 36
+commoditymarket_fantasy:caravan_market_2 87 67 36
+commoditymarket_fantasy:caravan_market_3 87 67 36
+commoditymarket_fantasy:caravan_market_4 87 67 36
+commoditymarket_fantasy:caravan_market_5 87 67 36
+commoditymarket_fantasy:caravan_market_permanent 87 67 36
+commoditymarket_fantasy:caravan_post 184 174 149
+commoditymarket_fantasy:goblin_market 149 115 69
+commoditymarket_fantasy:kings_market 149 115 69
+commoditymarket_fantasy:night_market 149 115 69
+commoditymarket_fantasy:under_market 129 130 113

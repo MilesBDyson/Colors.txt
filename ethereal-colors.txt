@@ -1,0 +1,12 @@
+# ethereal
+ethereal:banana 175 164 43
+ethereal:bananaleaves 50 94 39
+ethereal:orange 197 113 26
+ethereal:strawberry_1 59 95 35
+ethereal:strawberry_2 85 113 35
+ethereal:strawberry_3 88 114 35
+ethereal:strawberry_4 83 111 35
+ethereal:strawberry_5 86 113 35
+ethereal:strawberry_6 116 137 107
+ethereal:strawberry_7 144 156 130
+ethereal:strawberry_8 119 93 41

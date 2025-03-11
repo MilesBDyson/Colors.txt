@@ -1,0 +1,13 @@
+# flowers
+flowers:chrysanthemum_green 118 152 44
+flowers:dandelion_white 199 191 176
+flowers:dandelion_yellow 212 167 31
+flowers:geranium 77 91 168
+flowers:mushroom_brown 109 84 78
+flowers:mushroom_red 195 102 102
+flowers:rose 130 68 33
+flowers:tulip 156 101 44
+flowers:tulip_black 78 120 72
+flowers:viola 115 69 184
+flowers:waterlily 107 160 68
+flowers:waterlily_waving 107 160 68
